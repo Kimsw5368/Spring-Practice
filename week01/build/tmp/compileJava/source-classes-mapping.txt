@@ -1,4 +1,0 @@
-com/sparta/week01/Week01Application.java
- com.sparta.week01.Week01Application
-com/sparta/week01/prac/Prac.java
- com.sparta.week01.prac.Prac
